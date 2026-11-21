@@ -1,4 +1,4 @@
-# helloweb
+# Hello, web
 Floorp/Firefox extension and UI theme
 
 ![Logo](screenshot.jpg)
